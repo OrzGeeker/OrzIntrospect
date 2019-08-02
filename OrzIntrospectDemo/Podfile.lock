@@ -1,0 +1,16 @@
+PODS:
+  - OrzIntrospect (0.0.1)
+
+DEPENDENCIES:
+  - OrzIntrospect (from `../OrzIntrospect.podspec`)
+
+EXTERNAL SOURCES:
+  OrzIntrospect:
+    :path: "../OrzIntrospect.podspec"
+
+SPEC CHECKSUMS:
+  OrzIntrospect: c6b83794a2bfbfbfcc081486f8a0c8027b6ffc84
+
+PODFILE CHECKSUM: ead0ce0948baa2998421719c511c8eadbeeaabbf
+
+COCOAPODS: 1.7.5
