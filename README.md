@@ -4,9 +4,9 @@ A Wrapper With CocoaPod of DCIntrospect
 
 ## Usage
 
-add orzgeeker pod specs source in Podfile:
+add pod in Podfile:
 
- `source 'https://github.com/OrzGeeker/Specs.git'` 
+ `pod 'OrzIntrospect', :configurations=>['Debug'], :source => 'https://github.com/OrzGeeker/Specs.git'` 
 
  The configure OrzIntrospect in AppDelegate as follow:
 
